@@ -1,5 +1,5 @@
 # mini_rag_app
-This is a minimal implementation og RAG model for question answering
+    This is a minimal implementation of RAG model for question answering
 
 ## Requirements
 - Python 3.8 or later
@@ -15,7 +15,7 @@ This is a minimal implementation og RAG model for question answering
   $ conda activate mini-rag
 ```
     
-## (Optional) Setup you command line interface for better readability
+## (Optional) Set up your command line interface for better readability
 ```bash 
 export PS1='\[\033[01;32m\]\u@\h:\w\n\[\033[00m\]\$'
 ```
